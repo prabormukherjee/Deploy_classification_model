@@ -26,7 +26,7 @@ it will run the model and let us type the comment manually.
 Default port `http://{HOST}:{PORT}/v1/models/{MODEL_NAME}`     
 Specified port `http://{HOST}:{PORT}/v1/models/{MODEL_NAME}[/versions/{MODEL_VERSION}]:predict`    
 3. gRPC    
-`python3 tf_serving_grpc_client.py`
+`python3 tf_serving_grpc_client.py`    
 it will run the model and let us type the comment manually.    
 
 
